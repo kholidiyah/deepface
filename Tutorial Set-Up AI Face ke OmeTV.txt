@@ -1,0 +1,16 @@
+Video Tutorial Set-Up AI Face ke OmeTV 
+
+1. DeepFaceLive
+   - AI Face
+
+2. OBS
+   - Virtual Camera
+   
+3. Prism Lens
+   - Frame Background
+   
+4. OmeTV
+   - Aplikasi chat online
+   
+5. Native Camera
+   - USB Plug in
